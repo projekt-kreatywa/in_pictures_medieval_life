@@ -1,0 +1,148 @@
+Starting batch processing of 8 images...
+
+Start time: 17:37:02
+
+Export directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_traced_'
+
+Bitmap Filename: 'GettyImages-51240447_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-51240447_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-51241166(1)_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-51241166(1)_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-148796252_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-148796252_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-170974245(1)_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-170974245(1)_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-463924995_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-463924995_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-464451381_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-464451381_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-535823201 2_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-535823201 2_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'Margrave Otto IV of Brandenburg Playing Chess (From the Codex Manesse), Between 1305 and 1340. Found in the collection of the Library of the Ruprecht Karl University, Heidelberg.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'Margrave Otto IV of Brandenburg Playing Chess (From the Codex Manesse), Between 1305 and 1340. Found in the collection of the Library of the Ruprecht Karl University, Heidelberg.svg'
+Would Overwrite: false
+
+Using the following settings:
+
+Image Category: Photograph
+Image Quality: Auto-detect
+Palette Mode: Flexible Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+
+Starting to process images...
+
+Converting 'GettyImages-51240447_0.jpg' to 'GettyImages-51240447_0.svg'...
+Done classifying: 0:04.674
+Done finding palette: 0:01.614
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Flexible Palette
+Transparency Mode: Flatten to white
+Done segmenting: 0:04.207
+Done smoothing: 0:06.351
+Done fitting: 0:00.478
+
+Converting 'GettyImages-51241166(1)_0.jpg' to 'GettyImages-51241166(1)_0.svg'...
+Done classifying: 0:06.380
+Done finding palette: 0:01.963
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Flexible Palette
+Transparency Mode: Flatten to white
+Done segmenting: 0:05.383
+Done smoothing: 0:14.079
+Done fitting: 0:00.548
+
+Converting 'GettyImages-148796252_0.jpg' to 'GettyImages-148796252_0.svg'...
+Done classifying: 0:05.034
+Done finding palette: 0:01.539
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Flexible Palette
+Transparency Mode: Flatten to white
+Done segmenting: 0:04.484
+Done smoothing: 0:12.050
+Done fitting: 0:00.466
+
+Converting 'GettyImages-170974245(1)_0.jpg' to 'GettyImages-170974245(1)_0.svg'...
+Done classifying: 0:05.925
+Done finding palette: 0:02.172
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Flexible Palette
+Transparency Mode: Flatten to white
+Done segmenting: 0:06.352
+Done smoothing: 0:12.738
+Done fitting: 0:00.555
+
+Converting 'GettyImages-463924995_0.jpg' to 'GettyImages-463924995_0.svg'...
+Done classifying: 0:05.742
+Done finding palette: 0:02.162
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Flexible Palette
+Transparency Mode: Flatten to white
+Done segmenting: 0:04.813
+Done smoothing: 0:10.906
+Done fitting: 0:00.509
+
+Converting 'GettyImages-464451381_0.jpg' to 'GettyImages-464451381_0.svg'...
+Done classifying: 0:07.010
+Done finding palette: 0:02.314
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Flexible Palette
+Transparency Mode: Flatten to white
+Done segmenting: 0:06.052
+Done smoothing: 0:11.949
+Done fitting: 0:00.722
+
+Converting 'GettyImages-535823201 2_0.jpg' to 'GettyImages-535823201 2_0.svg'...
+Done classifying: 0:06.859
+Done finding palette: 0:02.094
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Flexible Palette
+Transparency Mode: Flatten to white
+Done segmenting: 0:06.288
+Done smoothing: 0:15.051
+Done fitting: 0:00.730
+
+Converting 'Margrave Otto IV of Brandenburg Playing Chess (From the Codex Manesse), Between 1305 and 1340. Found in the collection of the Library of the Ruprecht Karl University, Heidelberg.jpg' to 'Margrave Otto IV of Brandenburg Playing Chess (From the Codex Manesse), Between 1305 and 1340. Found in the collection of the Library of the Ruprecht Karl University, Heidelberg.svg'...
+Done classifying: 0:04.259
+Done finding palette: 0:01.791
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Flexible Palette
+Transparency Mode: Flatten to white
+Done segmenting: 0:04.668
+Done smoothing: 0:06.141
+Done fitting: 0:00.287
+
+End time: 17:40:19
+Elapsed time: 3:17.701
+
+Done processing images.

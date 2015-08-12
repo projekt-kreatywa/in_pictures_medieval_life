@@ -1,0 +1,207 @@
+Starting batch processing of 11 images...
+
+Start time: 17:27:08
+
+Export directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_traced_'
+
+Bitmap Filename: 'Clothes infected by the Black Death being burnt in medieval Europe, circa 1340_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'Clothes infected by the Black Death being burnt in medieval Europe, circa 1340_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-51240207_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-51240207_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-51240464_1_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-51240464_1_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-51240949_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-51240949_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-51241077_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-51241077_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-51241292_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-51241292_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-51246955_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-51246955_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-162219589_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-162219589_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-171189015_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-171189015_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-173290288_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-173290288_0.svg'
+Would Overwrite: false
+
+Bitmap Filename: 'GettyImages-173316995_0.jpg'
+Bitmap Directory: '/git-hub/_projekt-kreatywa/in_pictures_medieval_life/_img_in_pictures_medieval_life_org_'
+Vector Filename: 'GettyImages-173316995_0.svg'
+Would Overwrite: false
+
+Using the following settings:
+
+Image Category: Photograph
+Image Quality: Auto-detect
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+
+Starting to process images...
+
+Converting 'Clothes infected by the Black Death being burnt in medieval Europe, circa 1340_0.jpg' to 'Clothes infected by the Black Death being burnt in medieval Europe, circa 1340_0.svg'...
+Done classifying: 0:06.383
+Done finding palette: 0:02.467
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+Done segmenting: 0:00.350
+Done smoothing: 0:10.372
+Done fitting: 0:00.677
+
+Converting 'GettyImages-51240207_0.jpg' to 'GettyImages-51240207_0.svg'...
+Done classifying: 0:09.529
+Done finding palette: 0:02.287
+Image Category: Photograph
+Image Quality: High
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+Done segmenting: 0:00.462
+Done smoothing: 0:17.316
+Done fitting: 0:00.768
+
+Converting 'GettyImages-51240464_1_0.jpg' to 'GettyImages-51240464_1_0.svg'...
+Done classifying: 0:08.912
+Done finding palette: 0:02.206
+Image Category: Photograph
+Image Quality: High
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+Done segmenting: 0:00.366
+Done smoothing: 0:19.544
+Done fitting: 0:00.936
+
+Converting 'GettyImages-51240949_0.jpg' to 'GettyImages-51240949_0.svg'...
+Done classifying: 0:17.317
+Done finding palette: 0:02.185
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+Done segmenting: 0:00.323
+Done smoothing: 0:16.449
+Done fitting: 0:00.472
+
+Converting 'GettyImages-51241077_0.jpg' to 'GettyImages-51241077_0.svg'...
+Done classifying: 0:07.571
+Done finding palette: 0:02.414
+Image Category: Photograph
+Image Quality: High
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+Done segmenting: 0:00.513
+Done smoothing: 0:18.785
+Done fitting: 0:00.926
+
+Converting 'GettyImages-51241292_0.jpg' to 'GettyImages-51241292_0.svg'...
+Done classifying: 0:13.261
+Done finding palette: 0:03.276
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+Done segmenting: 0:00.435
+Done smoothing: 0:23.812
+Done fitting: 0:01.087
+
+Converting 'GettyImages-51246955_0.jpg' to 'GettyImages-51246955_0.svg'...
+Done classifying: 0:09.645
+Done finding palette: 0:02.292
+Image Category: Photograph
+Image Quality: High
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+Done segmenting: 0:00.451
+Done smoothing: 0:09.940
+Done fitting: 0:00.406
+
+Converting 'GettyImages-162219589_0.jpg' to 'GettyImages-162219589_0.svg'...
+Done classifying: 0:07.584
+Done finding palette: 0:02.429
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+Done segmenting: 0:00.531
+Done smoothing: 0:17.559
+Done fitting: 0:00.618
+
+Converting 'GettyImages-171189015_0.jpg' to 'GettyImages-171189015_0.svg'...
+Done classifying: 0:06.030
+Done finding palette: 0:02.228
+Image Category: Photograph
+Image Quality: Medium
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+Done segmenting: 0:00.462
+Done smoothing: 0:13.852
+Done fitting: 0:01.072
+
+Converting 'GettyImages-173290288_0.jpg' to 'GettyImages-173290288_0.svg'...
+Done classifying: 0:05.377
+Done finding palette: 0:02.003
+Image Category: Photograph
+Image Quality: High
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+Done segmenting: 0:00.295
+Done smoothing: 0:05.688
+Done fitting: 0:00.477
+
+Converting 'GettyImages-173316995_0.jpg' to 'GettyImages-173316995_0.svg'...
+Done classifying: 0:07.814
+Done finding palette: 0:02.095
+Image Category: Photograph
+Image Quality: High
+Palette Mode: Fixed Palette
+Number of Colors: 4
+Transparency Mode: Flatten to white
+Done segmenting: 0:00.374
+Done smoothing: 0:16.138
+Done fitting: 0:00.858
+
+End time: 17:32:16
+Elapsed time: 5:07.898
+
+Done processing images.
